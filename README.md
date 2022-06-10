@@ -4,7 +4,6 @@
 
 <p align="center"><strong> Live demo with my personnal data <a href="https://renan.meneses.me">here</a> ! </strong></p>
 
-<img align="center" src="doc/portfolio-vuejs_demo.gif" alt="portfolio-vuejs preview"></img>
 
 ---
 
