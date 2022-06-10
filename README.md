@@ -68,8 +68,8 @@ Now, you can customize it with your data through CosmicJS interface!
 
 👤 **Renan Pato**
 
-* Github: [@hbollon](https://github.com/hbollon)
-* LinkedIn: [@Renan Pato](https://www.linkedin.com/in/renan.meneses/)
+* Github: [@renan-meneses](https://github.com/renan-meneses)
+* LinkedIn: [@Renan Pato](https://www.linkedin.com/in/renan-meneses-a75466ab/)
 * Portfolio: [renan.meneses.me](https://www.renan.meneses.me)
 
 ## 🤝 Contributing
